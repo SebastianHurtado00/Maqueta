@@ -59,7 +59,7 @@
                         </div>
 
                     </form>
-                    <div class="login100-more" style="background-image: url('https://www.kienyke.com/sites/default/files/styles/interna_contenido_s/public/2021-11/SENA%20%281%29.jpg?itok=o6i5V-5a');">
+                    <div class="login100-more" style="background-image: url('https://smapse.com/storage/2021/11/3-36.jpg');">
                     </div>
                 </div>
             </div>
